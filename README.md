@@ -18,9 +18,8 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br>
 
-# My social media 	:computer:
+# My social media
   <a href="https://www.linkedin.com/in/bruno-braga-274a0b268/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank" rel="external" height="28" width="28"></a>
-  <a href = "mailto:alemelo50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" rel="external"></a>
  
 
   
